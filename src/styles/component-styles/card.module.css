@@ -1,0 +1,28 @@
+.ItemCont {
+  width: calc((100% - (3 * 5%) )/ 4); /* hanya 3 celah krn padding kiri-kanan udah diatur di container */
+  height: 40vh;
+  margin-top: 10px;
+  background-color: white;
+  border: 1px solid black;
+  box-sizing: border-box;
+  outline: 1px solid blue;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: Arial, Helvetica, sans-serif;
+  justify-content: flex-start;
+
+}
+.ItemCont h1{
+  flex: 0;
+}
+.ItemCont p{
+  text-align: center;
+  margin: auto;
+  flex: 0;
+}
+.ItemCont a{
+  text-align: center;
+  margin: auto;
+  flex: 0;
+}

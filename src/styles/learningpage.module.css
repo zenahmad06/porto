@@ -1,0 +1,10 @@
+.ContainerLearn {
+  margin-top: 15px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  padding: 0 5%; /* ngatur child di dalam, jaga kiri-kanan child dialam */
+  column-gap: 5%; /* gunakan ini untuk baris 2 memulai dari kri */
+  row-gap: 5px;
+  background-color: white;
+}
