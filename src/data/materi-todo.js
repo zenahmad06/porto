@@ -6,3 +6,11 @@ export const materiTodo ={
         blog:"https://zenahmad06.github.io/blog/todo-list/"
     }
 }
+export const materiFilter ={
+    title:"Filtering React",
+    content:"Dalam taks ini saya melakukan filtering dan menggunakan useEffect",
+    link:{
+        project:"https://zenahmad06.github.io/all-project/filtering-task/",
+        blog:"https://zenahmad06.github.io/blog/filtering-task/"
+    }
+}

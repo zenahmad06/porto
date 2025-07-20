@@ -15,6 +15,7 @@
 }
 .ItemCont h1{
   flex: 0;
+  text-align: center;
 }
 .ItemCont p{
   text-align: center;
