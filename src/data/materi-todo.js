@@ -7,7 +7,7 @@ export const materiTodo ={
     }
 }
 export const materiFilter ={
-    title:"Filtering React",
+    title:"Filtering",
     content:"Dalam taks ini saya melakukan filtering dan menggunakan useEffect",
     link:{
         project:"https://zenahmad06.github.io/all-project/filtering-task/",
