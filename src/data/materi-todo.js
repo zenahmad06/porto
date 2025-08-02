@@ -14,3 +14,11 @@ export const materiFilter ={
         blog:"https://zenahmad06.github.io/blog/filtering-task/"
     }
 }
+export const Crud ={
+    title:"CRUD Example",
+    content:"In this project we make CRUD using react-redux and implement browserroute",
+    link:{
+        project:"https://crud-redux-example.netlify.app/",
+        blog:"https://zenahmad06.github.io/blog/crud/"
+    }
+}
