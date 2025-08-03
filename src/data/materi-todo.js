@@ -22,3 +22,11 @@ export const Crud ={
         blog:"https://zenahmad06.github.io/blog/crud/"
     }
 }
+export const CrudBackend ={
+    title:"Simple Crud Backend",
+    content:"In this project we make Simple Backend CRUD using MONGODB and express",
+    link:{
+        project:"https://github.com/zenahmad06/all-project/tree/main/crud-backend",
+        blog:"https://zenahmad06.github.io/blog/crud-backend/"
+    }
+}

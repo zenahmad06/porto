@@ -1,6 +1,6 @@
 import Card from '../components/card-item'
 import styled from '../styles/learningpage.module.css'
-import { materiTodo,materiFilter,Crud } from '../data/materi-todo'
+import { materiTodo,materiFilter,Crud,CrudBackend } from '../data/materi-todo'
 export default function LearningPage(){
     return(
         <>
@@ -8,6 +8,8 @@ export default function LearningPage(){
                 <Card content={materiTodo}/>
                 <Card content={materiFilter}/>
                 <Card content={Crud}/>
+                <Card content={CrudBackend}/>
+
 
 
             </div>
