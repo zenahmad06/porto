@@ -31,10 +31,10 @@ export const CrudBackend ={
     }
 }
 export const paginationBackend ={
-    title:"Pagination Backend",
-    content:"In this project we make Backend for handle pagination",
+    title:"Pagination ",
+    content:"In this project we make Backend and Frontend for handle pagination",
     link:{
-        project:"https://github.com/zenahmad06/all-project/tree/main/pagination-backend",
+        project:"https://github.com/zenahmad06/all-project/tree/main/pagination",
         blog:"https://zenahmad06.github.io/blog/search-pagination-notes/"
     }
 }
